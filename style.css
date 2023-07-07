@@ -1,0 +1,14 @@
+/* 
+    Folha de estilo do site one page HTML5 e CSS3
+    @author Daniel Furlan Montefusco
+*/
+
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+body{
+    background-color: #ff0000;
+}
