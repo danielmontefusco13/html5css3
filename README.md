@@ -1,6 +1,8 @@
 # Nota
 Curso ministrado pelo Professor José de Assis
+
 https://www.youtube.com/@ProfessorJosedeAssis
+
 Curso playlist: https://www.youtube.com/watch?v=bS720dGvAn8&list=PLbEOwbQR9lqySIIlPJ-Qwo4f4HSuXVeWk
 
 # HTML 5 e CSS3
