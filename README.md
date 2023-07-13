@@ -1,3 +1,8 @@
+# Nota
+Curso ministrado pelo Professor José de Assis
+https://www.youtube.com/@ProfessorJosedeAssis
+Curso playlist: https://www.youtube.com/watch?v=bS720dGvAn8&list=PLbEOwbQR9lqySIIlPJ-Qwo4f4HSuXVeWk
+
 # HTML 5 e CSS3
 Aprenda HTML 5, CSS3 e SEO de forma simples, prática e objetiva desenvolvendo passo a passo do zero até a hospedagem de um site moderno e responsivo.
 ## Links indicados
