@@ -1,3 +1,5 @@
+![GitHub](https://img.shields.io/github/license/danielmontefusco13/html5css3)
+
 # Nota
 Curso ministrado pelo Professor José de Assis
 
